@@ -6,3 +6,7 @@ We used server side validation to make sure data is entered correctly in the cor
 E-mail and password field validation is implemented using AJAX, validations are done in real time to check if e-mail is already registered and if passwords match.
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/email%20and%20password%20ajax.gif)
+
+Users can easily navigate between different cities. Clicking on any city leads to its corresponding city dashboard. 
+
+![](https://github.com/karam-taha/gifs-test/blob/master/gifs/dashboard.gif)
