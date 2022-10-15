@@ -72,7 +72,9 @@ Users can check their profile for content they added, and access this content to
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/view%20profile.gif)
 
-Random generator:
+---
+
+**Random generator:**
 
 Users have the option to receive a random activity in their desired city.
 
