@@ -13,7 +13,7 @@ Users can easily navigate between different cities. Clicking on any city leads t
 
 Users can add an activity, with the date being optional. They have to specify the city using a dropdown menu. 
 
-![](https://github.com/karam-taha/gifs-test/blob/master/gifs/creating%20activity.gif)
+![](https://github.com/karam-taha/gifs-test/blob/master/gifs/create%20activity.gif)
 
 Users can view each activity to see more details. If this activity was added by them, they can edit or remove it. If not, they can only up-vote or down-vote. 
 
