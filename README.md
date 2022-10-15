@@ -1,9 +1,12 @@
 ## Demo
+User Registration:
+
 We used server side validation to make sure data is entered correctly in the corresponding fields.
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/register%20validation.gif)
 
-User Registration:
+
+
 E-mail and password field validation is implemented using AJAX, validations are done in real time to check if e-mail is already registered and if passwords match.
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/email%20and%20password%20ajax.gif)
@@ -26,17 +29,20 @@ Users can view each activity to see more details. If this activity was added by 
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/view%20activity%20and%20upvote.gif)
 
-Edit Activity: 
+Edit Activity:
+
 Users can modify the information of activities they previously added. The same validations apply as when creating the activity. 
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/updating%20activity.gif)
 
-Profile: 
+Profile:
+
 Users can check their profile for content they added, and access this content to edit or remove it. They can also see the content they “up-voted” or liked.
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/view%20profile.gif)
 
-Random generator: 
+Random generator:
+
 Users have the option to receive a random activity in their desired city.
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/random.gif)
