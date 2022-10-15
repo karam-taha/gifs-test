@@ -36,11 +36,13 @@ We used server side validation to make sure data is entered correctly in the cor
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/register%20validation.gif)
 
-
+---
 
 E-mail and password field validation is implemented using AJAX, validations are done in real time to check if e-mail is already registered and if passwords match.
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/email%20and%20password%20ajax.gif)
+
+---
 
 **Dashboard:**
 
@@ -48,11 +50,15 @@ Users can easily navigate between different cities. Clicking on any city leads t
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/dashboard.gif)
 
+---
+
 **Create Activity:**
 
 Users can add an activity, with the date being optional. They have to specify the city using a dropdown menu. 
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/create%20activity.gif)
+
+---
 
 **View Activity:**
 
@@ -60,11 +66,15 @@ Users can view each activity to see more details. If this activity was added by 
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/view%20activity%20and%20upvote.gif)
 
+---
+
 **Edit Activity:**
 
 Users can modify the information of activities they previously added. The same validations apply as when creating the activity. 
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/updating%20activity.gif)
+
+---
 
 **Profile:**
 
@@ -80,6 +90,7 @@ Users have the option to receive a random activity in their desired city.
 
 ![](https://github.com/karam-taha/gifs-test/blob/master/gifs/random.gif)
 
+---
 
 ## Tech Stack
 This project was built using Django framework, and uses the following technologies:
