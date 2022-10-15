@@ -95,11 +95,11 @@ Different tools were used to plan and manage the project, such as:
 
 | Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Cultured | ![#f5f5f5](https://via.placeholder.com/10/f5f5f5?text=+) `#F5F5F5` |
-| Royal Blue Dark | ![#10316B](https://via.placeholder.com/10/10316B?text=+) `#10316B` |
-| Queen Blue | ![#326B9A](https://via.placeholder.com/10/326B9A?text=+) `#326B9A` |
-| Arctic Lime | ![#E0FF4F](https://via.placeholder.com/10/E0FF4F?text=+) `#E0FF4F` |
-| Tart Orange | ![#FF4949](https://via.placeholder.com/10/FF4949?text=+) `#FF4949` |
+| Cultured | ![#F5F5F5](https://via.placeholder.com/15/f5f5f5/f5f5f5.png) `#F5F5F5` |
+| Royal Blue Dark | ![#10316B](https://via.placeholder.com/15/10316B/10316B.png) `#10316B` |
+| Queen Blue | ![#326B9A](https://via.placeholder.com/15/326B9A/326B9A.png) `#326B9A` |
+| Arctic Lime | ![#E0FF4F](https://via.placeholder.com/15/E0FF4F/E0FF4F.png) `#E0FF4F` |
+| Tart Orange | ![#FF4949](https://via.placeholder.com/15/FF4949/FF4949.png) `#FF4949` |
 
 ## Logo
 
