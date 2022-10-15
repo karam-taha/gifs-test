@@ -30,7 +30,6 @@ This project was deployed using AWS
 
 
 ## Demo
-## Demo
 User Registration:
 
 We used server side validation to make sure data is entered correctly in the corresponding fields.
@@ -96,11 +95,11 @@ Different tools were used to plan and manage the project, such as:
 
 | Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Cultured | ![#F5F5F5](https://via.placeholder.com/10/f5f5f5?text=+) #F5F5F5 |
-| Royal Blue Dark | ![#10316B](https://via.placeholder.com/10/10316B?text=+) #10316B |
-| Queen Blue | ![#326B9A](https://via.placeholder.com/10/326B9A?text=+) #326B9A |
-| Arctic Lime | ![#E0FF4F](https://via.placeholder.com/10/E0FF4F?text=+) #E0FF4F |
-| Tart Orange | ![#FF4949](https://via.placeholder.com/10/FF4949?text=+) #FF4949 |
+| Cultured | ![#F5F5F5](https://via.placeholder.com/10/f5f5f5?text=+) `#F5F5F5` |
+| Royal Blue Dark | ![#10316B](https://via.placeholder.com/10/10316B?text=+) `#10316B` |
+| Queen Blue | ![#326B9A](https://via.placeholder.com/10/326B9A?text=+) `#326B9A` |
+| Arctic Lime | ![#E0FF4F](https://via.placeholder.com/10/E0FF4F?text=+) `#E0FF4F` |
+| Tart Orange | ![#FF4949](https://via.placeholder.com/10/FF4949?text=+) `#FF4949` |
 
 ## Logo
 
